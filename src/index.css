@@ -11,3 +11,7 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+form {display: flex;flex-direction: column; }
+form input, form button, form textarea {font-family: 'Ubuntu', sans-serif; width: 30%; border: 1px solid #ccc; padding: 15px; border-radius: 10px; margin: 10px auto}
